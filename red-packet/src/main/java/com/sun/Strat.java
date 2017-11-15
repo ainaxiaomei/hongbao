@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 启动入口，需要jdk1.8
+ * 运行时指定三个参数分别是
+ * 红包个数
+ * 红包金额
+ * 抢红包人数
+ * @author 
+ *
+ */
 public class Strat {
 	public static void main(String[] args) {
 
